@@ -20,7 +20,7 @@ import Url
 -- | |_) | |/ _` | __| |_ / _ \| '__| '_ ` _ \
 -- |  __/| | (_| | |_|  _| (_) | |  | | | | | |
 -- |_|   |_|\__,_|\__|_|  \___/|_|  |_| |_| |_|
--- The heart of the lamdera platform for cuecannon is
+-- The heart of the lamdera platform for octk is
 -- mapped in these functions
 
 

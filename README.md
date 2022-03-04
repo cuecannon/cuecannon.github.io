@@ -1,14 +1,14 @@
 # Making changes
-<a href="https://gitpod.io/#https://github.com/cuecannon/cuecannon" target="_blank">
+<a href="https://gitpod.io/#https://github.com/octk/open-canon-tool-kit" target="_blank">
   <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod"> 
   </img>
 </a>
 
 CTRL+click (on Windows and Linux) or CMD+click (on MacOS) for a new tab.
 
-# Deploying cuecannon to lamdera platform
+# Deploying OCTK to lamdera platform
 1) Make new lamdera app
-2) Clone cuecannon repository
+2) Clone OCTK repository
 3) Add ENV params to lamdera (canon url)
 4) Copy and past Lamdera git URL in repo to add remote
 5) `lamdera deploy`
